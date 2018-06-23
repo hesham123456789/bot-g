@@ -20,8 +20,8 @@ hour = 0
 @client.event
 async def on_ready():
     print("Eingeloggt als BoredBot V0.1")
-    print(client.user.name)
-    print(client.user.id)
+    print((client.Coolmusic#1693)
+    print(client.439877156508794880))
     print("------------")
     await client.change_presence(game=discord.Game(name="access with !help"))
 
