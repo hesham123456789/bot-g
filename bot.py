@@ -160,4 +160,4 @@ client.loop.create_task(total_uptime())
 
 
 
-client.run(str(os.environ.get('BOT_TOKEN')))
+client.run(str(os.environ.get('NDM5ODc3MTU2NTA4Nzk0ODgw.Dg-d8g.y98g8hUJvMn1F0EJFpOZwKxKMUg')))
